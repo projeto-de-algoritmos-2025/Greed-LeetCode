@@ -20,5 +20,8 @@ Para explorar o conteúdo do tópico de Algoritmos Ambiciosos, a dupla escolheu 
 
 ### [630. Course Schedule III (Difícil)](https://leetcode.com/problems/course-schedule-iii/)
 
+![image](https://github.com/user-attachments/assets/3929548b-3521-4c7e-ada2-981be2f08829)
+
+
 ## Instalação 
-**Linguagem**: JavaScript<br>
+**Linguagem**: JavaScript e Python<br>
