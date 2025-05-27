@@ -25,6 +25,8 @@ https://github.com/user-attachments/assets/c646797c-5c13-4468-ba4d-287dab6b0b80
 
 ![image](https://github.com/user-attachments/assets/3929548b-3521-4c7e-ada2-981be2f08829)
 
+https://github.com/user-attachments/assets/2db3ffaf-6f8a-4593-9388-0af1e6a2169f
+
 
 ## Instalação 
 **Linguagem**: JavaScript e Python<br>
