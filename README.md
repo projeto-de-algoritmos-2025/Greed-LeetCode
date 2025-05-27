@@ -14,9 +14,11 @@ Para explorar o conteúdo do tópico de Algoritmos Ambiciosos, a dupla escolheu 
 
 ## Screenshots
 
-[435. Non-overlapping Intervals (Média)](https://leetcode.com/problems/non-overlapping-intervals/)
+### [435. Non-overlapping Intervals (Média)](https://leetcode.com/problems/non-overlapping-intervals/)
 
 ![image](https://github.com/user-attachments/assets/8d1332b0-8c8f-41bf-8de6-4e72c83036f2)
+
+### [630. Course Schedule III (Difícil)](https://leetcode.com/problems/course-schedule-iii/)
 
 ## Instalação 
 **Linguagem**: JavaScript<br>
