@@ -14,6 +14,10 @@ Para explorar o conteúdo do tópico de Algoritmos Ambiciosos, a dupla escolheu 
 
 ## Screenshots
 
+### [330. Patching Array](https://leetcode.com/problems/patching-array/)
+
+![330](assets/330.png)
+
 ### [435. Non-overlapping Intervals (Média)](https://leetcode.com/problems/non-overlapping-intervals/)
 
 ![image](https://github.com/user-attachments/assets/8d1332b0-8c8f-41bf-8de6-4e72c83036f2)
@@ -29,4 +33,4 @@ https://github.com/user-attachments/assets/2db3ffaf-6f8a-4593-9388-0af1e6a2169f
 
 
 ## Instalação 
-**Linguagem**: JavaScript e Python<br>
+**Linguagem**: JavaScript, Python e C++<br>
